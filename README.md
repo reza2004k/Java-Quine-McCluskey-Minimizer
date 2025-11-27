@@ -1,7 +1,7 @@
 # 🔢 Java Quine-McCluskey (QM) Logic Minimizer
 
 This project is a console application written in **Java** that solves the problem of Boolean function minimization using the **Quine-McCluskey (Tabulation) Method**. This technique is a systematic, algorithmic alternative to the Karnaugh Map method for simplifying Sum-of-Products (SOP) Boolean expressions, especially for functions with a larger number of variables.
-
+/
 ## ✨ Features
 
 * **Boolean Function Input:** Accepts input in the form of minterms (decimal indices) for a function up to 4 variables.
